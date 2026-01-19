@@ -12,7 +12,7 @@ int zileInLuna(int luna, int an) {
     case 3: return 30;
     case 4: return 31;
     case 5: return 30;
-    case 6: return 31;
+    case 6: return 31; 
     case 7: return 31;
     case 8: return 30;
     case 9: return 31;
