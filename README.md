@@ -10,9 +10,9 @@ Rulare exemple:./Calendarexemplu --year 2025 --month 10
 Calendar anual:
 ./Calendarexemplu --year 2025 --view full
 
-Afi?are s?rb?tori legale:
+Afisare sarbatori legale:
 ./Calendarexemplu --year 2025 --holidays
 
-Ad?ugare eveniment:
+Adaugare eveniment:
 ./Calendarexemplu --year 2025 --month 10 --add_event 2025-10-15 "Intalnire importanta"
 etc.
