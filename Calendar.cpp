@@ -248,7 +248,7 @@ int main(int argc, char* argv[]) {
     int tm_wday = data.tm_wday;
     int spatii = (tm_wday + 6) % 7;
     int zile_luna = zileInLuna(luna, an);
-    cout << "Lun Mar Mie Joi Vin Sâm Dum\n";
+    cout << "Lun Mar Mie Joi Vin Sam Dum\n";
     for (int i = 0; i < spatii; i++) cout << "    ";
     int col_zi = spatii;
     for (int zi = 1; zi <= zile_luna; zi++) {
